@@ -1,10 +1,12 @@
 # USWDS-gulp Subtheme
 
 
-## Special github note for UVa developers:  if you want to check changes into the github repo,
-you will need to change use this command to change the repo remote origin.  
+## Special github note for UVa developers:
 
-From within the `web/themes/custom/uva_dsf_uswds.git` directory:
+if you want to check changes into the github repo,
+you will need to change the repo remote origin.  
+
+From within the `web/themes/custom/uva_dsf_uswds` directory:
 
 `git remote set-url origin git@github.com:uvalib/uva_dsf_uswds.git`
 
