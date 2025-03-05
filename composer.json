@@ -1,6 +1,6 @@
 {
     "name": "uvalib/uva_dsf_uswds",
-    "description": "UVA Digital Service Factory USWDS Theme",
+    "description": "UVA Data Storag Finder USWDS Theme",
     "type": "drupal-theme",
     "license": "GPL-2.0-or-later",
     "require": {
