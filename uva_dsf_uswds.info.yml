@@ -1,6 +1,6 @@
 name: 'UVA DSF USWDS'
 type: theme
-description: 'A USWDS subtheme for UVA Digital Service Factory.'
+description: 'A USWDS subtheme for UVA Data Storage Finder.'
 core_version_requirement: ^10
 base theme: uswds
 
