@@ -1,7 +1,7 @@
 name: 'UVA DSF USWDS'
 type: theme
 description: 'A USWDS subtheme for UVA Data Storage Finder.'
-core_version_requirement: ^10
+core_version_requirement: ^10 || ^11
 base theme: uswds
 
 libraries:
@@ -15,8 +15,6 @@ libraries-override:
     js:
       assets/js/uswds.min.js: assets/uswds/js/uswds.min.js
 
-ckeditor_stylesheets:
-  - assets/uswds/css/styles.css
 ckeditor5-stylesheets:
   - assets/uswds/css/styles.css
 
